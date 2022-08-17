@@ -1,9 +1,10 @@
 {
-    "TOKEN":"NzQ0NjU2NzQ3NjM2OTgxOTUz.GsQyal.IznJwwbKWIwHjez28YfFlyEfwm_zM1OadGCPAw",
+    "TOKEN":"Your Token Here",
     "PREFIX":"!",
-    "Invite":"https://discord.com/api/oauth2/authorize?client_id=744656747636981953&permissions=8&scope=bot",
+    "Invite":"Your Invite here",
     "Website":"https://github.com/TopStop5/Python-Discord-Bot-Template",
     "owners": [
-        625025751413948436
+        1234567890,
+        0987654321
       ]
 }
